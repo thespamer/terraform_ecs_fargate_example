@@ -103,8 +103,8 @@ resource "aws_codepipeline" "pipeline" {
       output_artifacts = ["source"]
 
       configuration {
-        Owner      = "duduribeiro"
-        Repo       = "openjobs_experiment"
+        Owner      = "thespamer"
+        Repo       = "micro-api"
         Branch     = "master"
       }
     }

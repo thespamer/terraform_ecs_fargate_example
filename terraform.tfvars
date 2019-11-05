@@ -1,5 +1,5 @@
 region                        = "eu-west-1"
-domain                        = "ecsfargateexample.tk"
+domain                        = "jsterraform.tk"
 
 /* rds */
 production_database_name      = "openjobs_production"
